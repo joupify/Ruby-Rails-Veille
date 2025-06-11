@@ -12,7 +12,7 @@
 |----------------------------|---------------------------|----------------------------------------------|---------------------------------------------------------------------------|
 | France Travail             |                          | 0                                            | Toutes exigeaient **≥ 3 ans d’expérience**                                |
 | LinkedIn                   |                        | 1 (stage)                                    | Une offre de stage, **aucune** offre junior CDI/CDD                       |
-| Welcome to the Jungle      |                         | 0                                            | Profils **confirmés ou seniors** uniquement                               |
+| Welcome to the Jungle      |                         | 1                                           | offre arenametrix  ou Profils **confirmés ou seniors** uniquement                               |
 | Indeed                     |                         | 0                                            | Toutes exigeaient une **expérience confirmée**                            |
 | Hellowork                  |                         | 0                                            | Aucune offre junior                                                      |
 | LesJeudis                  |                         | 0                                            | Offre senior uniquement                                                   |
@@ -32,3 +32,10 @@
 
 > **Tendance générale** : toutes les offres CDI/CDD exigent au moins **3 ans d’expérience**.  
 > Aucune offre « junior », « débutant » ou « alternant » n’a été publiée sur les plateformes majeures pour un poste salarié.
+>
+> Constats Implacables
+Pénurie absolue pour les juniors :
+
+100% des offres exigent 2+ ans d'expérience (même celles estampillées "Junior").
+La seule offre trouvée (Welcome to the Jungle) arenametrix , déja postulé et refusée
+
