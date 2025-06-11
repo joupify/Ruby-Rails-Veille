@@ -18,8 +18,6 @@
 - ** gestion de Active/storage - Blobs en dev et prod 
 
 
-
-
 ## 📌 03/06/2025
 - **Actualité** : Rails 7.1.3 corrige une faille XSS  
   *Impact sur vibeVault : Mise à jour urgente*  
