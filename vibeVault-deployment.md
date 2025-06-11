@@ -1,5 +1,5 @@
-🚀 Déploiement Heroku  juin  2025
-✅ Le fonctionnement en production (Heroku) a été testé après déploiement :
+## 🚀 Déploiement Heroku  juin  2025
+## ✅ Le fonctionnement en production (Heroku) a été testé après déploiement :
 
 Les fichiers vendor/javascript/*.js générés par importmap sont bien versionnés dans Git
 
