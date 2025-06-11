@@ -16,4 +16,4 @@ Ce type de pratique fausse la réalité du marché : il n’est pas possible d
 
  
 
-![Offre WTJ Juin 2025](./images/artemetrix_jobijoba.png)
+![Offre WTJ Juin 2025](./images/CAPTAIN_CONTRAT_Annonce_Liste_d_Attente_2.png)
