@@ -1,5 +1,6 @@
--# 🛠️ Veille Technique RoR - Juin 2025
-- ## # Veille Technique RoR - Juin 2025- Suivi Hebdo
+# 🛠️ Veille Technique RoR - Juin 2025
+
+- ##  Veille Technique RoR - Juin 2025- Suivi Hebdo
 
 
 
@@ -27,9 +28,8 @@
 - 🔍 **Ressource** : Tutoriel "Optimiser PostgreSQL avec Rails" 
 
 
-# 🛠️ Veille Technique RoR - Juin 2025
 
-## 📌 05/06/2025
+## 📌 08/06/2025
 
 ### 🔧 Gestion des Environnements (dev/prod)
 - ✅ Configuration séparée des fichiers `credentials.yml.enc` pour chaque environnement (production et développement).
@@ -47,7 +47,7 @@
 
 ---
 
-## 📌 03/06/2025
+## 📌 07/06/2025
 
 ### 🛡️ Sécurité
 - ✅ Mise à jour vers Rails 7.1.3 (faille XSS corrigée)  
@@ -66,7 +66,7 @@
 
 ---
 
-## 📌 01/06/2025
+## 📌 05/06/2025
 
 ### 👥 Authentification & Invitations
 - ✅ Exploration de la gem `devise-invitable` pour intégrer une phase "bêta fermée" dans les futurs projets.
