@@ -3,4 +3,4 @@
 
  
 
-![Offre FT Juin 2025](./images/jobijoba.png)
+![Offre FT Juin 2025](./images/artemetrix_jobijoba.png)
