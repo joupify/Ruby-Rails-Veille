@@ -21,13 +21,13 @@
 | Jooble                     |                         | 0                                            | Rediffusion d’offres d’autres plateformes                                 |
 | Stack Overflow Jobs        |                         | 0                                            | Aucune offre RoR France                                                   |
 | Monster                    |                         | 0                                            | Aucune offre RoR                                                          |
-| **TOTAL (France, S1 2025)**|                     | **1 (stage), 0 CDI/CDD junior**              | Marché RoR junior **quasi-inexistant**                                    |
+| **TOTAL (France, S1 2025)**|                     | **1 (stage), 1 CDI/CDD junior**              | Marché RoR junior **quasi-inexistant**                                    |
 
 ---
 
 ### Résumé
 
-- **Total offres RoR junior (CDI/CDD, 0-2 ans d’expérience)** : **0**  
+- **Total offres RoR junior (CDI/CDD, 0-2 ans d’expérience)** : **1**  arenametrix sur WTJ
 - **Total offres RoR junior (stage)** : **1**  
 
 > **Tendance générale** : toutes les offres CDI/CDD exigent au moins **3 ans d’expérience**.  
