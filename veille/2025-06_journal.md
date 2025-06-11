@@ -1,3 +1,5 @@
+-# 🛠️ Veille Technique RoR - Juin 2025
+- ## # Veille Technique RoR - Juin 2025- Suivi Hebdo
 
 
 
@@ -6,7 +8,15 @@
 - **Ressource** : Tutoriel sur Hotwire ([lien vers l’article](https://www.hotrails.dev/turbo-rails)
 
 
-# Veille Technique RoR - Juin 2025
+### 11/06  
+- 🛠 **vibeVault** : Résolu le bug de paiement Stripe (webhook non déclenché)  
+- 📚 **Veille** : Découvert `gem 'sidekiq-scheduler'` pour les tâches récurrentes
+
+### 10/06  
+- 🚀 **Twitter Clone** : Notifications en temps réel opérationnelles avec Hotwire  
+- 🔍 **Ressource** : Tutoriel "Optimiser PostgreSQL avec Rails" 
+
+
 # 🛠️ Veille Technique RoR - Juin 2025
 
 ## 📌 05/06/2025
