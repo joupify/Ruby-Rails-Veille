@@ -17,7 +17,6 @@
 - 🔍 **Ressource** : Tutoriel "Optimiser PostgreSQL avec Rails" 
 
 
-# 🛠️ Veille Technique RoR - Juin 2025
 
 ## 📌 08/06/2025
 
