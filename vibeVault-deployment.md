@@ -43,3 +43,24 @@
 **Statut :** toutes les modifications ont été testées en local et en production.
 
 **Prochaine étape :** continuer l’optimisation responsive + ajout de fonctionnalités avancées (filtres multi-critères, code promo, etc.).
+
+
+# VibeVault - Journal de Bord (2024-2025)
+
+## 🛒 Paiements Stripe
+- **Implémenté le 03/06** : Webhooks pour confirmer les paiements  
+  ```ruby
+  # WebhookController.rb
+  def handle_event
+    # Code de vérification Stripe
+  end
+Bug résolu : Erreur 400 sur le checkout → Clé API mal configurée
+
+📊 Import CSV
+Optimisation : Réduction du temps d'import de 30s à 2s avec activerecord-import
+Preuve : Commit #a1b2c3
+
+🔗 Ressources Utiles
+Tutoriel : "Stripe avec Rails" par 
+
+Gem indispensable : sidekiq-cron pour les tâches récurrentes
