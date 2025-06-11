@@ -3,7 +3,6 @@
 
 
 
-## Veille marché actualisée (mai-juin 2025)
 ## Poursuite d’une veille active sur toutes les plateformes majeures (France Travail, LinkedIn, Indeed, Welcome to the Jungle, Hellowork, RORjobs, Jooble, ChooseYourBoss).
 ## Résultat : toujours aucune offre Ruby on Rails junior (CDI/CDD) publiée sur le marché français, à l’exception d’une seule annonce (Arenametrix, Paris, CDI junior, 23/05/2025), à laquelle j’ai postulé.
 
@@ -28,7 +27,7 @@
 
 ### Résumé
 
-- **Total offres RoR (tous niveaux)** : **35**  
+- **Total offres RoR (tous niveaux)** : **35**  brut
 - **Total offres RoR junior (CDI/CDD, 0-2 ans d’expérience)** : **0**  
 - **Total offres RoR junior (stage)** : **1**  
 
