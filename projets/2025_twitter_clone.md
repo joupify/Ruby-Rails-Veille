@@ -1,13 +1,13 @@
 # Twitter Clone - Suivi Technique (2025)
-  📌 Récapitulatif des Projets
-🕊️ Twitter Clône – Développement Full-Stack avec Ruby on Rails 8 
-📆 Année : 2025
-📍 Description
-Application web inspirée de Twitter, permettant aux utilisateurs de publier des tweets, d'interagir avec d'autres membres (likes, retweets, commentaires) et de suivre leurs abonnements en temps réel.
-🔧 Technologies utilisées
-Backend : Ruby on Rails 8, PostgreSQL
-Frontend : Stimulus.js, Hotwire Turbo
-Authentification : Devise
+  **📌 Récapitulatif des Projets
+**🕊️ Twitter Clône – Développement Full-Stack avec Ruby on Rails 8 
+**📆 Année : 2025
+**📍 Description
+**Application web inspirée de Twitter, permettant aux utilisateurs de publier des tweets, d'interagir avec d'autres membres (likes, retweets, commentaires) et de suivre leurs abonnements en temps réel.
+**🔧 Technologies utilisées
+**Backend : Ruby on Rails 8, PostgreSQL
+**Frontend : Stimulus.js, Hotwire Turbo
+**Authentification : Devise
 Stockage : Active Storage (images de profil & bannières)
 Notifications : Noticed + Sidekiq pour les notifications en arrière-plan
 Tâches en arrière-plan : Active Job (EventJob)
