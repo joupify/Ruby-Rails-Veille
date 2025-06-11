@@ -1,3 +1,18 @@
+
+# Notes de Déploiement
+
+## vibeVault - 10/06/2025
+- **Problème** : upload csv  échoue en prod lors du `assets:precompile`  
+- **Solution** :  
+  ```bash
+  # Dans deploy.rb
+  set :assets_roles, [:web]
+
+
+
+
+
+
 ## 🚀 Déploiement Heroku  juin  2025
 ## ✅ Le fonctionnement en production (Heroku) a été testé après déploiement :
 
