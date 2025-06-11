@@ -3,8 +3,18 @@
 
 
 
+## 12/06/2025
+- 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
+- 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
+- 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
+- 🔍 **Veille marché** : Scraping ROR Jobs => 0 offre RoR junior en IDF
+- 📮 **Candidature** : ZERO  Envoyé
+- ❌ **Obstacle** : 100% des offres exigent 2+ ans d'expérience (captures jointes)
+- 🛠 **Twitter Clone** : Optimisé les requêtes SQL (N+1) avec `includes`
+
+
+
 - **Actualité** : Sortie de Rails 7.1.3 ([rubyonrails.org](https://rubyonrails.org))
-- **Astuce** : Optimisation des requêtes N+1 avec `includes`
 - **Ressource** : Tutoriel sur Hotwire ([lien vers l’article](https://www.hotrails.dev/turbo-rails)
 
 
