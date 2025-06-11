@@ -1,35 +1,33 @@
 ## 🚀 Déploiement Heroku  juin  2025
 ## ✅ Le fonctionnement en production (Heroku) a été testé après déploiement :
 
-Les fichiers vendor/javascript/*.js générés par importmap sont bien versionnés dans Git
+##Les fichiers vendor/javascript/*.js générés par importmap sont bien versionnés dans Git
 
-Les assets Bootstrap JS sont bien préchargés grâce à pin "bootstrap", preload: true
+##Les assets Bootstrap JS sont bien préchargés grâce à pin "bootstrap", preload: true
 
-Aucun besoin de recompilation via Webpacker ou jsbundling-rails
+##Aucun besoin de recompilation via Webpacker ou jsbundling-rails
 
-⚠️ Attention : sur Heroku, si les assets JS ou CSS ne se chargent pas :
+##⚠️ Attention : sur Heroku, si les assets JS ou CSS ne se chargent pas :
 
-Vérifier que tous les fichiers sont bien versionnés dans Git (vendor/javascript)
+##Vérifier que tous les fichiers sont bien versionnés dans Git (vendor/javascript)
 
-Lancer un git push heroku main pour forcer le déploiement avec les nouveaux pins
+## Lancer un git push heroku main pour forcer le déploiement avec les nouveaux pins
 
-S'assurer que importmap-rails est bien dans le Gemfile en production
+## S'assurer que importmap-rails est bien dans le Gemfile en production
 
-🧪 Test manuel réalisé
-Ajout temporaire d’un bouton de test avec icône :
+## 🧪 Test manuel réalisé
+## Ajout temporaire d’un bouton de test avec icône
 
-erb
-Copier
-Modifier
-<button class="btn btn-outline-secondary">
+## <button class="btn btn-outline-secondary">
   <span class="navbar-toggler-icon"></span>
 </button>
-✍️ Notes
-L'application utilise importmap, pas Webpacker ni esbuild.
 
-Bootstrap 5.3 fonctionne entièrement sans jQuery.
+## ✍️ Notes
+## L'application utilise importmap, pas Webpacker ni esbuild.
 
-Toutes les partials ont été mises à jour (_navbar, _filters, _search).
+## Bootstrap 5.3 fonctionne entièrement sans jQuery.
+
+## Toutes les partials ont été mises à jour (_navbar, _filters, _search).
 
 
 
