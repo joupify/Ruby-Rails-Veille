@@ -1,8 +1,8 @@
 
 
 
-![Invitation LinkedIn](./images/invitations_linkedin.png)
-![Invitation LinkedIn](./images/invitations_linkedin_2.png)
+![Invitation LinkedIn](./images/Invitations_linkedin.png)
+![Invitation LinkedIn](./images/Invitations_linkedin_2.png)
 ![Invitation LinkedIn](./images/linkedin_invitations_envoyees.png)
 
 
