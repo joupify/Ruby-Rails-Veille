@@ -1,5 +1,5 @@
-![Invitation LinkedIn](./images/Invitations_LinkedIn.png)
-![Invitation LinkedIn](./images/Invitations_LinkedIn_2.png)
-![Invitation LinkedIn](./images/LinkedIn_Invitations_Envoyées.png)
+![Invitation LinkedIn](./images/invitations_linkedin.png)
+![Invitation LinkedIn](./images/invitations_linkedin_2.png)
+![Invitation LinkedIn](./images/linkedIn_invitations_envoyees.png)
 
 
