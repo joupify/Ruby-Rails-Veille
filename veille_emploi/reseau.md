@@ -1,11 +1,10 @@
 # 🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
-# 🛠️ Veille Technique RoR - Juin 2025
 
 # 📅 Date : 12 juin 2025
-"🎯 Objectif : Élargir son réseau professionnel en Ruby on Rails en ciblant des profils CTO / Tech Leads via LinkedIn (envoi de 14 invitations personnalisées).
+# 🎯 Objectif : Élargir son réseau professionnel en Ruby on Rails en ciblant des profils CTO / Tech Leads via LinkedIn (envoi de 14 invitations personnalisées).
 ##📌 Méthode : Utilisation de Wallaxy pour automatiser l'envoi d'invitations avec un message intégré.
 
-🖼️ Captures d'écran – preuves d'envoi
+# 🖼️ Captures d'écran – preuves d'envoi
 
 
 ![Invitation LinkedIn](./images/Invitations_linkedin.png)
