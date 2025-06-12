@@ -1,10 +1,25 @@
 # 🛠️ Veille Technique RoR - Juin 2025
 
 - ##  Veille Technique RoR - Juin 2025- Suivi Hebdo
+  
+# 📅 Date : 12 juin 2025
+- 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
+- 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
+- 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
+- 🔍 **Veille marché** : Scraping ROR Jobs => 0 offre RoR junior en IDF
+- 📮 **Candidature** : ZERO  Envoyé
+- ❌ **Obstacle** : 100% des offres exigent 2+ ans d'expérience (captures jointes)
+- 🛠 **Twitter Clone** : Optimisé les requêtes SQL (N+1) avec `includes`
 
 
+# 🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
 
-## 12/06/2025
+### 🎯 Objectif : Élargir son réseau professionnel en Ruby on Rails en ciblant des profils CTO / Tech Leads via LinkedIn (envoi de 14 invitations personnalisées).
+### 📌 Méthode : Utilisation de Wallaxy pour automatiser l'envoi d'invitations avec un message intégré.
+
+### 🖼️ Captures d'écran – preuves d'envoi/fichier reseau.md
+
+# 📅 Date : 11 juin 2025
 - 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
 - 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
 - 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
