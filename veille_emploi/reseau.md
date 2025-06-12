@@ -1,4 +1,4 @@
-#🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
+# 🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
 # 🛠️ Veille Technique RoR - Juin 2025
 
 # 📅 Date : 12 juin 2025
