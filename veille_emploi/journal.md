@@ -12,7 +12,7 @@
 - 
 ### 🔹 Réseautage LinkedIn  ( commenter des posts ROR junior)
 
-##🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
+## 🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
 
 ### 🎯 Objectif : Élargir son réseau professionnel en Ruby on Rails en ciblant des profils CTO / Tech Leads via LinkedIn (envoi de 14 invitations personnalisées).
 ### 📌 Méthode : Utilisation de Wallaxy pour automatiser l'envoi d'invitations avec un message intégré.
