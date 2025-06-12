@@ -6,12 +6,16 @@
 🖼️ Captures d'écran – preuves d'envoi
 
 
+![Invitation LinkedIn](./images/Invitations_linkedin.png)
+
+![Invitation LinkedIn](./images/Invitations_linkedin_2.png)
+
+![Invitation LinkedIn](./images/linkedin_invitations_envoyees.png)
+
 
 
 💬 Message envoyé avec l’invitation
-text
-Copier
-Modifier
+
 Bonjour [Prénom],
 
 Je suis développeuse junior RoR (portfolio GitHub : https://github.com/joupify).
