@@ -10,7 +10,8 @@
 - 📮 **Candidature** : ZERO  Envoyé
 - ❌ **Obstacle** : 100% des offres exigent 2+ ans d'expérience (captures jointes)
 - 🛠 **Twitter Clone** : Optimisé les requêtes SQL (N+1) avec `includes`
-
+- 
+# 🔹 Réseautage LinkedIn  ( commenter des posts ROR junior)
 
 # 🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
 
