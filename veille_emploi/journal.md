@@ -3,8 +3,107 @@
 - ##  Veille Technique RoR - Juin 2025- Suivi Hebdo
 
 
+### ✅ 18 juin 2025 (prévisionnel)
+- 🌐 Reprise de [Hotrails.dev](https://www.hotrails.dev/) pour une veille axée sur Turbo & Hotwire.  
+  → Objectif : mettre à jour mes connaissances pratiques pour des projets full Hotwire.
 
-## 12/06/2025
+---
+
+
+### ✅ 17 juin 2025
+- 📚 Lecture du chapitre 1 du Rails Tutorial (Rails 7th edition).  
+  → Objectif : consolider les bases, revoir les bonnes pratiques de structure MVC.  
+  → À documenter publiquement ou en README si nécessaire.
+
+---
+## 🎯 Objectif
+Suivre activement les évolutions de l’écosystème Ruby on Rails, améliorer mes compétences en continu et repérer les bonnes pratiques attendues dans le monde professionnel.
+
+---
+
+## 🔍 Suivi des actions
+
+✅ 16 juin 2025
+📩 Échange LinkedIn avec Sébastien [Nom] (contact via Walaa).
+→ Il m’a transmis une offre non encore publiée pour un poste de Junior Software Engineer chez Moka.Care.
+→ Conseil reçu : postuler avant même la publication officielle, car les profils juniors sont rares et recherchés selon lui.
+→ Réponse envoyée : remerciement pour l’info et l’aide.
+→ ⚠️ Offre pas encore visible sur leur site, lien partagé : https://lnkd.in/exayEgn7
+
+### ✅ 16 juin 2025
+- 📩 Contact avec Alexandre Ruban (développeur RoR) via LinkedIn.  
+  → Conseils reçus : lecture du [Rails Tutorial](https://www.learnenough.com/ruby-on-rails-7th-edition) et de [Hotrails.dev](https://www.hotrails.dev/).  
+  → Engagement personnel : revoir ces ressources pour veille officielle France Travail.  
+
+## 📌 Remarques
+- 🔁 Tutos déjà connus, relus dans une logique de conformité (France Travail).  
+- 🧠 Démarche critique maintenue : veille stratégique plutôt que consommation passive.
+
+---
+
+## 🛠️ Stack concernée
+- Ruby 3.3.x  
+- Rails 7.x / 8  
+- Hotwire (Turbo, Stimulus.js)  
+- PostgreSQL  
+- Cloudinary (utilisé dans projet VibeVault)  
+- Stripe API
+
+---
+## Actions Réseautage
+
+### 🔗 **Contacts LinkedIn**
+1. **Éloïse Emptoz** (Head of Product @Moka.Care)
+   - ✅ Invitation envoyée + message personnalisé
+   - concernant le poste de *Junior Software Engineer*.  
+    → En attente de publication de l'offre (mentionnée comme à venir).  
+    → Stack Ruby confirmée via site de Moka.Care.
+   - 📌 Objectif : Obtenir infos sur l'offre junior Ruby
+   - 🗒️ Notes : *"Poste junior à venir, à relancer dans 3 jours"*
+
+2. **Devs Ruby seniors @Moka.Care** (5 contacts)
+   - ✅ 2 invitations enoyées (Jules R.,  L.)
+   - 📩 Messages envoyés : Demande de conseils + partage GitHub
+   - 🔴 3 invitations bloquées (quota LinkedIn atteint)
+
+
+### 🔎 **Stratégies alternatives**
+- 🕵️ Recherche alumni Le Wagon chez Moka.Care → 5 identifiés
+- 📌 Prochaine étape : Contacter via GitHub (2 profils actifs)
+
+---
+
+## 📌 **Next Steps**
+- [ ] Relancer Éloïse par email (jour J+3)
+- [ ] Contacter les 5 alumni Wagon via GitHub
+- [ ] Préparer un mini-projet public Ruby (démo)
+
+---
+
+## 🔗 Projets reliés à la veille
+- **VibeVault** : e-commerce complet (import CSV, panier, paiement Stripe, admin simplifié)
+- **Twitter Clone Rails 8** : fonctionnalités sociales avancées, messagerie, notifications
+
+---
+  
+# 📅 Date : 12 juin 2025
+- 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
+- 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
+- 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
+- 🔍 **Veille marché** : Scraping ROR Jobs => 0 offre RoR junior en IDF
+- 📮 **Candidature** : ZERO  Envoyé
+- ❌ **Obstacle** : 100% des offres exigent 2+ ans d'expérience (captures jointes)
+- 
+### 🔹 Réseautage LinkedIn  ( commenter des posts ROR junior)
+
+## 🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
+
+### 🎯 Objectif : Élargir son réseau professionnel en Ruby on Rails en ciblant des profils CTO / Tech Leads via LinkedIn (envoi de 14 invitations personnalisées).
+### 📌 Méthode : Utilisation de Wallaxy pour automatiser l'envoi d'invitations avec un message intégré.
+
+### 🖼️ Captures d'écran – preuves d'envoi/fichier reseau.md
+
+# 📅 Date : 11 juin 2025
 - 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
 - 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
 - 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
