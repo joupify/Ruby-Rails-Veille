@@ -1,33 +1,43 @@
 # 🛠️ Veille Technique RoR - Juin 2025
 
-- ##  Veille Technique RoR - Juin 2025- Suivi Hebdo
 
 
 ### ✅ 18 juin 2025 (prévisionnel)
 
-- 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
-- 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
-- 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
-- 🔍 **Veille marché** : Scraping ROR Jobs => 0 offre RoR junior en IDF
-- 📮 **Candidature** : ZERO  Envoyé
-- ❌ **Obstacle** : 100% des offres exigent 2+ ans d'expérience (captures jointes)
-- 🌐 Reprise de [Hotrails.dev](https://www.hotrails.dev/) pour une veille axée sur Turbo & Hotwire.  
+- 🔍 **Scraping LinkedIn** : 0 offre RoR junior en IDF  
+- 🔍 **Scraping France Travail** : 1 offre (Arenametrix) → expirée depuis 2 mois (publiée le 5 juin)  
+- 🔍 **Scraping Welcome to the Jungle** : 0 offre  
+- 🔍 **Scraping ROR Jobs** : 0 offre  
+- 📮 **Candidature** : Aucune envoyée  
+- ❌ **Obstacle** : 100% des offres exigent 2+ ans d’expérience (captures d’écran disponibles)  
+- 🌐 **Veille** : Reprise de [Hotrails.dev](https://www.hotrails.dev) pour une veille axée sur Turbo & Hotwire
+
+
+- 🛠️ **Script `rake update:closet`**  
+  - Objectif : synchroniser les produits importés depuis un CSV en prod  
+  - 🔧 Vérification des `jolicloset_id` pour mise à jour conditionnelle  
+  - 💾 Téléversement conditionnel des images avec `Cloudinary::Uploader.upload`
+
+- 🐛 **Bug corrigé** : duplication des produits malgré les `id` identiques (oubli du `to_s.strip` dans la comparaison)  
+- ⚙️ **Logs** ajoutés en mode `Rails.logger.info` pour suivi précis de l’opération  
+- 📘 **Documentation** du script (README section “Mise à jour des produits”)
+
 
 ---
 
 
 ### ✅ 17 juin 2025
 
-- 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
-- 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
-- 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
-- 🔍 **Veille marché** : Scraping ROR Jobs => 0 offre RoR junior en IDF
-- 📮 **Candidature** : ZERO  Envoyé
-- ❌ **Obstacle** : 100% des offres exigent 2+ ans d'expérience (captures jointes)
+- 🔍 **État du marché RoR** : inchangé  
+- 🧪 **Tests VibeVault** : couverture de l’import CSV → migration du script en `rake update:closet`  
+- 🧩 **Refactor** : service `ProductUpdater` avec gestion des images via `ActiveStorage::Blob.find_by`  
+- 📦 **Stimulus** : micro-contrôleur pour la notification « produit mis à jour » (Flash + Turbo)
+
 
 ---
 ## 🎯 Objectif
 Suivre activement les évolutions de l’écosystème Ruby on Rails, améliorer mes compétences en continu et repérer les bonnes pratiques attendues dans le monde professionnel.
+
 
 ---
 
@@ -39,7 +49,7 @@ Suivre activement les évolutions de l’écosystème Ruby on Rails, améliorer 
 - 🔍 **Veille marché** : Scraping France Travail=> 1 offre RoR junior en IDF -> arenametrix = offre expiree depuis 2 mois et publieée le 5 juin 
 - 🔍 **Veille marché** : Scraping Welcome to Jungle=> 0 offre RoR junior en IDF
 - 🔍 **Veille marché** : Scraping ROR Jobs => 0 offre RoR junior en IDF
-- 📮 **Candidature** : ZERO  Envoyé
+- 📮 **Candidature** : ZERO  Envoyée
 - ❌ **Obstacle** : 100% des offres exigent 2+ ans d'expérience (captures jointes)
 
 
