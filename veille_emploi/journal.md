@@ -1,6 +1,60 @@
 # 🛠️ Veille Technique RoR - Juin 2025
 
 - ##  Veille Technique RoR - Juin 2025- Suivi Hebdo
+
+
+### ✅ 18 juin 2025 (prévisionnel)
+- 🌐 Reprise de [Hotrails.dev](https://www.hotrails.dev/) pour une veille axée sur Turbo & Hotwire.  
+  → Objectif : mettre à jour mes connaissances pratiques pour des projets full Hotwire.
+
+---
+
+
+### ✅ 17 juin 2025
+- 📚 Lecture du chapitre 1 du Rails Tutorial (Rails 7th edition).  
+  → Objectif : consolider les bases, revoir les bonnes pratiques de structure MVC.  
+  → À documenter publiquement ou en README si nécessaire.
+
+---
+## 🎯 Objectif
+Suivre activement les évolutions de l’écosystème Ruby on Rails, améliorer mes compétences en continu et repérer les bonnes pratiques attendues dans le monde professionnel.
+
+---
+
+## 🔍 Suivi des actions
+
+### ✅ 16 juin 2025
+- 📩 Contact avec Alexandre Ruban (développeur RoR) via LinkedIn.  
+  → Conseils reçus : lecture du [Rails Tutorial](https://www.learnenough.com/ruby-on-rails-7th-edition) et de [Hotrails.dev](https://www.hotrails.dev/).  
+  → Engagement personnel : revoir ces ressources pour veille officielle France Travail.  
+- 📩 Message d’invitation envoyé à **Eloïse Emptoz** (Product Lead – Moka.Care) concernant le poste de *Junior Software Engineer*.  
+  → En attente de publication de l'offre (mentionnée comme à venir).  
+  → Stack Ruby confirmée via site de Moka.Care.
+
+---
+
+
+## 📌 Remarques
+- 🔁 Tutos déjà connus, relus dans une logique de conformité (France Travail).  
+- 🧠 Démarche critique maintenue : veille stratégique plutôt que consommation passive.
+
+---
+
+## 🛠️ Stack concernée
+- Ruby 3.3.x  
+- Rails 7.x / 8  
+- Hotwire (Turbo, Stimulus.js)  
+- PostgreSQL  
+- Cloudinary (utilisé dans projet VibeVault)  
+- Stripe API
+
+---
+
+## 🔗 Projets reliés à la veille
+- **VibeVault** : e-commerce complet (import CSV, panier, paiement Stripe, admin simplifié)
+- **Twitter Clone Rails 8** : fonctionnalités sociales avancées, messagerie, notifications
+
+---
   
 # 📅 Date : 12 juin 2025
 - 🔍 **Veille marché** : Scraping LinkedIn => 0 offre RoR junior en IDF
