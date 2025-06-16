@@ -1,4 +1,4 @@
-# Synthèse veille technique – Juin 2025 – Malika Housni
+# Synthèse veille technique – Juin 2025 
 
 ---
 
@@ -66,11 +66,8 @@
 
 Malgré un contexte difficile sur le marché RoR junior, je poursuis ma montée en compétences technique et la consolidation de mon projet personnel.  
 La veille technique et l’analyse du marché restent au cœur de ma stratégie pour optimiser mes candidatures et préparer au mieux les entretiens.  
-La persistance d’annonces obsolètes et la faible visibilité des offres réelles me poussent à intensifier mes démarches et à élargir mes sources d’information.
+La faible visibilité des offres réelles me poussent à intensifier mes démarches et à élargir mes sources d’information.
 
 ---
-
-*Malika Housni*  
-16 juin 2025
 
 
