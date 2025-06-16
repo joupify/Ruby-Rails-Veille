@@ -30,7 +30,7 @@
 
 ---
 
-### 📩 Autres invitations LinkedIn – Campagne ciblée
+### 📩 14 Autres invitations LinkedIn – Campagne ciblée
 ![Invitation LinkedIn](./images/linkedin_Invitations_envoyees_juin.png)  
 ![Invitation LinkedIn](./images/linkedin_Invitations_envoyees_juin_2.png)  
 
