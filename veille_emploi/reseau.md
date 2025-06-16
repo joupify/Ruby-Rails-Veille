@@ -15,8 +15,8 @@
 
 ![Invitation LinkedIn](./images/linkedin_ines_1.png)
 
-![Invitation LinkedIn](./images/linkedin_invitations_envoyees_juin.png)
-![Invitation LinkedIn](./images/linkedin_invitations_envoyees_juin_2.png)
+![Invitation LinkedIn](./images/linkedin_Invitations_envoyees_juin.png)
+![Invitation LinkedIn](./images/linkedin_Invitations_envoyees_juin_2.png)
 
 
 
