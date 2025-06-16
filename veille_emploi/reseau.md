@@ -1,5 +1,27 @@
 # 🔹 Candidatures spontanées LinkedIn – envois d'invitations avec message
 
+# 📅 Date : 15 juin 2025
+
+![Invitation LinkedIn](./images/linkedin_alex_1.png)
+![Invitation LinkedIn](./images/linkedin_alex_2.png)
+![Invitation LinkedIn](./images/linkedin_alex_3.png)
+
+
+![Invitation LinkedIn](./images/linkedin_seb_1.png)
+![Invitation LinkedIn](./images/linkedin_seb_2.png)
+
+![Invitation LinkedIn](./images/linkedin_ines_1.png)
+
+
+![Invitation LinkedIn](./images/linkedin_ines_1.png)
+
+![Invitation LinkedIn](./images/linkedin_invitations_envoyees_juin.png)
+![Invitation LinkedIn](./images/linkedin_invitations_envoyees_juin_2.png)
+
+
+
+
+
 # 📅 Date : 12 juin 2025
 ### 🎯 Objectif : Élargir son réseau professionnel en Ruby on Rails en ciblant des profils CTO / Tech Leads via LinkedIn (envoi de 14 invitations personnalisées).
 ### 📌 Méthode : Utilisation de Wallaxy pour automatiser l'envoi d'invitations avec un message intégré.
