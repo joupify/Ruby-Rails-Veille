@@ -23,16 +23,17 @@ Suivre activement les évolutions de l’écosystème Ruby on Rails, améliorer 
 
 ## 🔍 Suivi des actions
 
+✅ 16 juin 2025
+📩 Échange LinkedIn avec Sébastien [Nom] (contact via Walaa).
+→ Il m’a transmis une offre non encore publiée pour un poste de Junior Software Engineer chez Moka.Care.
+→ Conseil reçu : postuler avant même la publication officielle, car les profils juniors sont rares et recherchés selon lui.
+→ Réponse envoyée : remerciement pour l’info et l’aide.
+→ ⚠️ Offre pas encore visible sur leur site, lien partagé : https://lnkd.in/exayEgn7
+
 ### ✅ 16 juin 2025
 - 📩 Contact avec Alexandre Ruban (développeur RoR) via LinkedIn.  
   → Conseils reçus : lecture du [Rails Tutorial](https://www.learnenough.com/ruby-on-rails-7th-edition) et de [Hotrails.dev](https://www.hotrails.dev/).  
   → Engagement personnel : revoir ces ressources pour veille officielle France Travail.  
-- 📩 Message d’invitation envoyé à **Eloïse Emptoz** (Product Lead – Moka.Care) concernant le poste de *Junior Software Engineer*.  
-  → En attente de publication de l'offre (mentionnée comme à venir).  
-  → Stack Ruby confirmée via site de Moka.Care.
-
----
-
 
 ## 📌 Remarques
 - 🔁 Tutos déjà connus, relus dans une logique de conformité (France Travail).  
@@ -47,6 +48,35 @@ Suivre activement les évolutions de l’écosystème Ruby on Rails, améliorer 
 - PostgreSQL  
 - Cloudinary (utilisé dans projet VibeVault)  
 - Stripe API
+
+---
+## Actions Réseautage
+
+### 🔗 **Contacts LinkedIn**
+1. **Éloïse Emptoz** (Head of Product @Moka.Care)
+   - ✅ Invitation envoyée + message personnalisé
+   - concernant le poste de *Junior Software Engineer*.  
+    → En attente de publication de l'offre (mentionnée comme à venir).  
+    → Stack Ruby confirmée via site de Moka.Care.
+   - 📌 Objectif : Obtenir infos sur l'offre junior Ruby
+   - 🗒️ Notes : *"Poste junior à venir, à relancer dans 3 jours"*
+
+2. **Devs Ruby seniors @Moka.Care** (5 contacts)
+   - ✅ 2 invitations enoyées (Jules R.,  L.)
+   - 📩 Messages envoyés : Demande de conseils + partage GitHub
+   - 🔴 3 invitations bloquées (quota LinkedIn atteint)
+
+
+### 🔎 **Stratégies alternatives**
+- 🕵️ Recherche alumni Le Wagon chez Moka.Care → 5 identifiés
+- 📌 Prochaine étape : Contacter via GitHub (2 profils actifs)
+
+---
+
+## 📌 **Next Steps**
+- [ ] Relancer Éloïse par email (jour J+3)
+- [ ] Contacter les 5 alumni Wagon via GitHub
+- [ ] Préparer un mini-projet public Ruby (démo)
 
 ---
 
