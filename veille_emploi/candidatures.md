@@ -1,10 +1,12 @@
 
 
-## Offres Ruby on Rails sur WTJ – Juin 2025
+## Offres Ruby on Rails sur indeed – Juin 2025
 
 Voici une capture stage chez Rivage :
 
 ![Stage Indeed_Rivage Juin 2025](./images/Rivage_1.png)
+![Stage Indeed_Rivage Juin 2025](./images/Rivage_2.png)
+
 
 
 
