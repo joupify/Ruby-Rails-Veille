@@ -1,8 +1,35 @@
 # 🛠️ Veille Technique RoR - Juin 2025
 
 
+### ✅ 18 juin 2025
 
-### ✅ 18 juin 2025 (prévisionnel)
+### Problème : Webhook Stripe en erreur (404)
+- ❌ En prod, le webhook `/stripe/webhooks` retournait une erreur 404.
+- ✅ Résolu en corrigeant l’URL déclarée côté Stripe (mauvais endpoint initial).
+
+---
+
+### Problème : Commande non retrouvée lors du webhook `checkout.session.completed`
+- ❌ La commande (`Order`) restait en statut `pending` malgré un paiement validé.
+- Cause : le webhook arrivait **avant que le `session_id` Stripe ne soit enregistré**.
+- ✅ Résolu en :
+  - Utilisant `metadata[:order_id]` dans la session Stripe.
+  - Recherchant la commande via `metadata.order_id` dans le webhook.
+  - Sauvegardant correctement le `session_id` juste après la création de session.
+
+---
+
+### Problème : Commandes précédentes bloquaient les suivantes
+- ❌ Commandes en `pending` polluaient la logique du job Stripe.
+- ✅ Résolu en purgeant les commandes obsolètes lors des tests, et en sécurisant les recherches d'`Order` (fallback, logs, vérifications).
+
+---
+
+### Objectif
+➡️ Garantir que chaque paiement Stripe génère une commande unique, retrouvée de manière fiable, même si les webhooks sont asynchrones ou arrivent trop tôt.
+
+
+### ✅ 18 juin 2025
 
 - 🔍 **Scraping LinkedIn** : 0 offre RoR junior en IDF  
 - 🔍 **Scraping France Travail** : 1 offre (Arenametrix) → expirée depuis 2 mois (publiée le 5 juin)  
