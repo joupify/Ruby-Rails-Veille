@@ -6,8 +6,7 @@ Voici une capture stage chez Rivage :
 
 ![Stage Indeed_Rivage Juin 2025](./images/Rivage_1.png)
 ![Stage Indeed_Rivage Juin 2025](./images/Rivage_2.png)
-
-
+![Stage Indeed_Rivage Juin 2025](./images/Rivage_reponse)
 
 
 
