@@ -5,61 +5,61 @@
 
 🧪 Tests VibeVault :
 
-Amélioration de la navigation mobile (menu hamburger avec Stimulus)
+- Amélioration de la navigation mobile (menu hamburger avec Stimulus)
 
-Intégration d'une loupe dynamique sur les images produit (JS + Stimulus)
+- Intégration d'une loupe dynamique sur les images produit (JS + Stimulus)
 
-Révision du système de galerie produit avec zoom, navigation clavier et responsive
+- Révision du système de galerie produit avec zoom, navigation clavier et responsive
 
-Refactorisation des composants Stimulus pour éviter redondance entre pages "home" et "show"
+- Refactorisation des composants Stimulus pour éviter redondance entre pages "home" et "show"
 
 ✅ 25 juin 2025
 - 🔍 **État du marché RoR** : inchangé  
 
 📚 Veille technique :
 
-Tutoriel approfondi sur Stimulus controller lifecycle
+- Tutoriel approfondi sur Stimulus controller lifecycle
 
-Test de l’intégration MutationObserver avec Stimulus (réaction au DOM dynamique)
+- Test de l’intégration MutationObserver avec Stimulus (réaction au DOM dynamique)
 
 🧪 Tests VibeVault :
 
-Gestion du panier avec Stimulus : affichage dynamique
+- Gestion du panier avec Stimulus : affichage dynamique
 
-Préparation back-office admin avec ActiveAdmin (WIP)
+- Préparation back-office admin avec ActiveAdmin (WIP)
 
 ✅ 24 juin 2025
 - 🔍 **État du marché RoR** : inchangé  
 
 🧪 Tests VibeVault :
 
-Debug scrollIntoView() sur les images dans la galerie
+- Debug scrollIntoView() sur les images dans la galerie
 
-Responsive layout : refonte des colonnes avec Tailwind
+- Responsive layout : refonte des colonnes avec Tailwind
 
-Nettoyage CSS inutilisé (via purge)
+- Nettoyage CSS inutilisé (via purge)
 
 ✅ 23 juin 2025
 - 🔍 **État du marché RoR** : inchangé  
 
 🧪 Tests VibeVault :
 
-Ajout d’un système de notifications front (stimulus + setTimeout)
+- Ajout d’un système de notifications front (stimulus + setTimeout)
 
-Ajustements UX sur le tunnel de commande (retours visuels sur les erreurs)
+- Ajustements UX sur le tunnel de commande (retours visuels sur les erreurs)
 
-Ajout d’un système de fallback d’images en cas de lien brisé
+- Ajout d’un système de fallback d’images en cas de lien brisé
 
 ✅ 20 juin 2025
 - 🔍 **État du marché RoR** : inchangé  
 
 🧪 Tests VibeVault :
 
-Amélioration du formulaire client (validations JS + hints visuels)
+- Amélioration du formulaire client (validations JS + hints visuels)
 
-Installation de devise-i18n pour uniformiser les messages d’erreur
+- Installation de devise-i18n pour uniformiser les messages d’erreur
 
-Tests Stripe en environnement sandbox
+-  Stripe en environnement sandbox
 
 ### ✅ 19 juin 2025
 🔍 État du marché RoR : inchangé
@@ -70,11 +70,11 @@ Tests Stripe en environnement sandbox
 
 🧪 Tests VibeVault :
 
-Migration du script d’import CSV vers rake update:closet
+- Migration du script d’import CSV vers rake update:closet
 
-Synchronisation avec les données existantes (éviter duplications)
+- Synchronisation avec les données existantes (éviter duplications)
 
-Gestion des erreurs silencieuses dans le rake task (log + skip entry)
+- Gestion des erreurs silencieuses dans le rake task (log + skip entry)
 
 
 
