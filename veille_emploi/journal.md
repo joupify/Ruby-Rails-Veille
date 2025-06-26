@@ -1,5 +1,50 @@
 # 🛠️ Veille Technique RoR - Juin 2025
 
+### ✅ 26 juin 2025
+
+- 🔍 **État du marché RoR** : inchangé  
+- 🧪 **Tests VibeVault** :
+- 
+### ✅ 25 juin 2025
+
+
+- 🔍 **État du marché RoR** : inchangé  
+- 🧪 **Tests VibeVault** :
+
+
+### ✅ 24 juin 2025
+
+- 🔍 **État du marché RoR** : inchangé  
+- 🧪 **Tests VibeVault** : 
+
+
+
+
+### ✅ 23 juin 2025
+
+- 🔍 **État du marché RoR** : inchangé  
+- 🧪 **Tests VibeVault** 
+
+
+
+### ✅ 20 juin 2025
+
+- 🔍 **État du marché RoR** : inchangé  
+- 🧪 **Tests VibeVault** 
+
+
+
+
+
+### ✅ 19 juin 2025
+
+- 🔍 **État du marché RoR** : inchangé
+- - 🔍 Seule offre apparu in indeed  *** Développeur Back end Junior Ruby On Rails *** chez Nedgis
+  - Candidature envoyée le 19 juin par mail à francette@nedgis.com 
+
+- 🧪 **Tests VibeVault** : couverture de l’import CSV → migration du script en `rake update:closet`  
+
+
 
 ### ✅ 18 juin 2025
 
