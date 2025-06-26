@@ -1,7 +1,7 @@
 # 🛠️ Veille Technique RoR - Juin 2025
 
 ✅ 26 juin 2025
-🔍 État du marché RoR : inchangé
+- 🔍 **État du marché RoR** : inchangé  
 
 🧪 Tests VibeVault :
 
@@ -14,7 +14,7 @@ Révision du système de galerie produit avec zoom, navigation clavier et respon
 Refactorisation des composants Stimulus pour éviter redondance entre pages "home" et "show"
 
 ✅ 25 juin 2025
-🔍 État du marché RoR : inchangé
+- 🔍 **État du marché RoR** : inchangé  
 
 📚 Veille technique :
 
@@ -29,7 +29,7 @@ Gestion du panier avec Stimulus : affichage dynamique
 Préparation back-office admin avec ActiveAdmin (WIP)
 
 ✅ 24 juin 2025
-🔍 État du marché RoR : inchangé
+- 🔍 **État du marché RoR** : inchangé  
 
 🧪 Tests VibeVault :
 
@@ -40,7 +40,7 @@ Responsive layout : refonte des colonnes avec Tailwind
 Nettoyage CSS inutilisé (via purge)
 
 ✅ 23 juin 2025
-🔍 État du marché RoR : inchangé
+- 🔍 **État du marché RoR** : inchangé  
 
 🧪 Tests VibeVault :
 
@@ -51,7 +51,7 @@ Ajustements UX sur le tunnel de commande (retours visuels sur les erreurs)
 Ajout d’un système de fallback d’images en cas de lien brisé
 
 ✅ 20 juin 2025
-🔍 État du marché RoR : inchangé
+- 🔍 **État du marché RoR** : inchangé  
 
 🧪 Tests VibeVault :
 
@@ -61,10 +61,10 @@ Installation de devise-i18n pour uniformiser les messages d’erreur
 
 Tests Stripe en environnement sandbox
 
-✅ 19 juin 2025
+### ✅ 19 juin 2025
 🔍 État du marché RoR : inchangé
 
-✅ Seule offre repérée sur Indeed :
+### ✅ Seule offre repérée sur Indeed :
 "Développeur Back-end Junior Ruby on Rails" chez Nedgis
 → Candidature envoyée le 19 juin à francette@nedgis.com
 
@@ -79,6 +79,8 @@ Gestion des erreurs silencieuses dans le rake task (log + skip entry)
 
 
 ### ✅ 18 juin 2025
+- 🔍 **État du marché RoR** : inchangé  
+
 
 ### Problème : Webhook Stripe en erreur (404)
 - ❌ En prod, le webhook `/stripe/webhooks` retournait une erreur 404.
