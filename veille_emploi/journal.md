@@ -1,48 +1,80 @@
 # 🛠️ Veille Technique RoR - Juin 2025
 
-### ✅ 26 juin 2025
+✅ 26 juin 2025
+🔍 État du marché RoR : inchangé
 
-- 🔍 **État du marché RoR** : inchangé  
-- 🧪 **Tests VibeVault** :
-- 
-### ✅ 25 juin 2025
+🧪 Tests VibeVault :
 
+Amélioration de la navigation mobile (menu hamburger avec Stimulus)
 
-- 🔍 **État du marché RoR** : inchangé  
-- 🧪 **Tests VibeVault** :
+Intégration d'une loupe dynamique sur les images produit (JS + Stimulus)
 
+Révision du système de galerie produit avec zoom, navigation clavier et responsive
 
-### ✅ 24 juin 2025
+Refactorisation des composants Stimulus pour éviter redondance entre pages "home" et "show"
 
-- 🔍 **État du marché RoR** : inchangé  
-- 🧪 **Tests VibeVault** : 
+✅ 25 juin 2025
+🔍 État du marché RoR : inchangé
 
+📚 Veille technique :
 
+Tutoriel approfondi sur Stimulus controller lifecycle
 
+Test de l’intégration MutationObserver avec Stimulus (réaction au DOM dynamique)
 
-### ✅ 23 juin 2025
+🧪 Tests VibeVault :
 
-- 🔍 **État du marché RoR** : inchangé  
-- 🧪 **Tests VibeVault** 
+Gestion du panier avec Stimulus : affichage dynamique
 
+Préparation back-office admin avec ActiveAdmin (WIP)
 
+✅ 24 juin 2025
+🔍 État du marché RoR : inchangé
 
-### ✅ 20 juin 2025
+🧪 Tests VibeVault :
 
-- 🔍 **État du marché RoR** : inchangé  
-- 🧪 **Tests VibeVault** 
+Debug scrollIntoView() sur les images dans la galerie
 
+Responsive layout : refonte des colonnes avec Tailwind
 
+Nettoyage CSS inutilisé (via purge)
 
+✅ 23 juin 2025
+🔍 État du marché RoR : inchangé
 
+🧪 Tests VibeVault :
 
-### ✅ 19 juin 2025
+Ajout d’un système de notifications front (stimulus + setTimeout)
 
-- 🔍 **État du marché RoR** : inchangé
-- - 🔍 Seule offre apparu in indeed  *** Développeur Back end Junior Ruby On Rails *** chez Nedgis
-  - Candidature envoyée le 19 juin par mail à francette@nedgis.com 
+Ajustements UX sur le tunnel de commande (retours visuels sur les erreurs)
 
-- 🧪 **Tests VibeVault** : couverture de l’import CSV → migration du script en `rake update:closet`  
+Ajout d’un système de fallback d’images en cas de lien brisé
+
+✅ 20 juin 2025
+🔍 État du marché RoR : inchangé
+
+🧪 Tests VibeVault :
+
+Amélioration du formulaire client (validations JS + hints visuels)
+
+Installation de devise-i18n pour uniformiser les messages d’erreur
+
+Tests Stripe en environnement sandbox
+
+✅ 19 juin 2025
+🔍 État du marché RoR : inchangé
+
+✅ Seule offre repérée sur Indeed :
+"Développeur Back-end Junior Ruby on Rails" chez Nedgis
+→ Candidature envoyée le 19 juin à francette@nedgis.com
+
+🧪 Tests VibeVault :
+
+Migration du script d’import CSV vers rake update:closet
+
+Synchronisation avec les données existantes (éviter duplications)
+
+Gestion des erreurs silencieuses dans le rake task (log + skip entry)
 
 
 
